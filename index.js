@@ -1,5 +1,6 @@
 // Import stylesheets
-import "./style.css";
+
 import { createStore } from "redux";
+import "./style.css";
 
 const { createStore } = Redux;
